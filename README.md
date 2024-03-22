@@ -16,9 +16,9 @@ Here are some ideas to get you started:
 # Lukas Maynard
 
 [![LinkedIn](https://img.shields.io/badge/Connect%20with%20me%20on-LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/lukas-maynard)
-
+<!--
 [![GitHub](https://img.shields.io/badge/Check%20out%20my-projects%20on%20GitHub-black?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Lukas-Maynard)
-
+-->
 ## 🤔 About Me
 
 I am a fast-learning programmer with a passion for software development and problem-solving. I have experience with various programming languages and tools. I am committed to continuous learning and improvement.
