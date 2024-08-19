@@ -43,7 +43,7 @@ I am currently seeking opportunities to gain hands-on experience in the programm
 ## ✨ Projects
 
 - Discord BOT: A Python discord bot hosted on Google App Engine.
-- Canvas Dark Mode: Google Chrome extension to apply custom CSS dark mode to desktop Canvas.
+- Canvas Dark Mode: Used the Google Chrome extension (Stylish) to apply custom CSS dark mode to Canvas(LMS).
 - "WebbWonders": Informative website on the James Webb Space Telescope.
 - Servo Robot: Small Robot Arm run with Python on a Raspberry Pi.
 - Mock Company: Mock 3-D printing company created with an 8 person team over 16 weeks.
