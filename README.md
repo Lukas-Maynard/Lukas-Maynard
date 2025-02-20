@@ -48,7 +48,7 @@ I am currently seeking opportunities to gain hands-on experience in the programm
 ## FinDataExtractor
 A Year long college senior project making software for a real company. Signed under an NDA.  
 Company: Accutech  
-Repo's:  
+### Repo's:  
   - [FinDataExtractorParser](https://github.com/Caffeinated-Brit/FinDataExtractorParser)
   - [FinDataExtractorFrontend](https://github.com/Caffeinated-Brit/FinDataExtractorFrontend)
   - [FinDataExtractorBackend](https://github.com/Caffeinated-Brit/FinDataExtractorBackend)
