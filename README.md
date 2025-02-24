@@ -61,10 +61,10 @@ ___
    
 ___
 ## ⚡ Class projects and class repo's
-There are too many to list, here are some more recent classes of note.
+There are too many to list so here are some more recent classes of note.
   - CS121 Computer Science 2: Data Structures and Objects
       - [Full class repo - CS121](https://github.com/Lukas-Maynard/CS121-S23-Maynard)
-  - CS222 Advance Programming
+  - CS222 Advanced Programming
       - [Full class repo - CS222](https://github.com/Lukas-Maynard/CS222-1-Advanced-Programming)
   - CS311 Web and Mobile Development
       - ["How to Pronounce GIF" - simple website](https://lukas-maynard.github.io/) 
