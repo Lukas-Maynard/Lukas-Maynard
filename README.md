@@ -62,14 +62,19 @@ ___
 ___
 ## ⚡ Class projects and class repo's
 There are too many to list, here are some more recent classes of note.
-  - [Full class repo - CS121 Computer Science 2: Data Structures and Objects](https://github.com/Lukas-Maynard/CS121-S23-Maynard)
-  - [Full class repo - CS222 Advance Programming](https://github.com/Lukas-Maynard/CS222-1-Advanced-Programming)
+  - CS121 Computer Science 2: Data Structures and Objects
+      - [Full class repo - CS121](https://github.com/Lukas-Maynard/CS121-S23-Maynard)
+  - CS222 Advance Programming
+      - [Full class repo - CS222](https://github.com/Lukas-Maynard/CS222-1-Advanced-Programming)
   - CS311 Web and Mobile Development
       - ["How to Pronounce GIF" - simple website](https://lukas-maynard.github.io/) 
       - [Project 1 - simple website](https://github.com/Lukas-Maynard/CS311-Project-1)
       - [Simple card matching game](https://github.com/Lukas-Maynard/CardMatchGame.github.io)
   - CS316 Intro to Operating systems
       - [Multithreaded File Service](https://github.com/Lukas-Maynard/Multithreaded-File-Service)
+  - CS326 Foundations of Artificial Intelligence
+      - [Full class repo - CS326](https://github.com/Lukas-Maynard/CS326-Foundations-of-Artificial-intelligence)
+          - Project of note: A chess bot using a minimax algorithm. Outlined in the [README](https://github.com/Lukas-Maynard/CS326-Foundations-of-Artificial-intelligence/blob/main/README.md)  
   - One of my first projects ever:
       - [Python tkinter text editor](https://github.com/Lukas-Maynard/Python-Project)
 
