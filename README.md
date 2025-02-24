@@ -47,12 +47,31 @@ I am currently seeking opportunities to gain hands-on experience in the programm
 
 ## FinDataExtractor
 A Year long college senior project making software for a real company. Signed under an NDA.  
-Company: Accutech  
-### Repo's:  
+Company: Accutech
+### Private Repo's:
   - [FinDataExtractorParser](https://github.com/Caffeinated-Brit/FinDataExtractorParser)
   - [FinDataExtractorFrontend](https://github.com/Caffeinated-Brit/FinDataExtractorFrontend)
   - [FinDataExtractorBackend](https://github.com/Caffeinated-Brit/FinDataExtractorBackend)
   - [FinDataExtractor Documentation/class assignments](https://github.com/sangcemthang/FinData-Extractor)
+
+___
+## 🔭 Smaller Projects
+  - [Discord bot](https://github.com/Lukas-Maynard/Personal-Projects)
+      - Private repo. A goofy bot for a discord channel with my friends.
+   
+___
+## ⚡ Class projects and class repo's
+There are too many to list, here are some more recent classes of note.
+  - [Full class repo - CS121 Computer Science 2: Data Structures and Objects](https://github.com/Lukas-Maynard/CS121-S23-Maynard)
+  - [Full class repo - CS222 Advance Programming](https://github.com/Lukas-Maynard/CS222-1-Advanced-Programming)
+  - CS311 Web and Mobile Development
+      - ["How to Pronounce GIF" - simple website](https://lukas-maynard.github.io/) 
+      - [Project 1 - simple website](https://github.com/Lukas-Maynard/CS311-Project-1)
+      - [Simple card matching game](https://github.com/Lukas-Maynard/CardMatchGame.github.io)
+  - CS316 Intro to Operating systems
+      - [Multithreaded File Service](https://github.com/Lukas-Maynard/Multithreaded-File-Service)
+  - One of my first projects ever:
+      - [Python tkinter text editor](https://github.com/Lukas-Maynard/Python-Project)
 
 <!--
 - Discord BOT: A Python discord bot hosted on Google App Engine.
