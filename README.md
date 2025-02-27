@@ -46,8 +46,10 @@ I am currently seeking opportunities to gain hands-on experience in the programm
 # ✨ Projects
 
 ## FinDataExtractor
-A Year long college senior project making software for a real company. Signed under an NDA.  
-Company: Accutech
+A yearlong senior Capstone project with the company Accutech. Signed under an NDA.  
+Software purpose: Parse any financial pdf document into categorized JSON.
+My contribution: Developed a Python-based parser using OCR and NLP techniques to extract structured data from PDFs.
+
 ### Private Repo's:
   - [FinDataExtractorParser](https://github.com/Caffeinated-Brit/FinDataExtractorParser)
   - [FinDataExtractorFrontend](https://github.com/Caffeinated-Brit/FinDataExtractorFrontend)
