@@ -14,8 +14,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 # Lukas Maynard
-[![LinkedIn](https://img.shields.io/badge/Connect%20with%20me%20on-LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/lukas-maynard)
-___
+
 <!--
 [![GitHub](https://img.shields.io/badge/Check%20out%20my-projects%20on%20GitHub-black?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Lukas-Maynard)
 -->
@@ -42,6 +41,11 @@ I am a fast-learning programmer with a passion for software development and prob
 I am currently seeking opportunities to gain hands-on experience in the programming field. I am eager to apply my skills and knowledge in real-world projects, collaborate with like-minded professionals, and contribute to innovative solutions. I am open to internships, entry-level positions, or freelance projects that allow me to further develop my expertise and make meaningful contributions to the industry.
 
 -->
+## 🤔 About Me
+A competent human with a plethora of programming and computer science knowledge. A soon to be graduate looking for an exciting challenge to learn as much as possible.
+
+[![LinkedIn](https://img.shields.io/badge/Connect%20with%20me%20on-LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/lukas-maynard)
+___
 
 # ✨ Projects
 
@@ -76,7 +80,7 @@ There are too many to list so here are some more recent classes of note.
       - [Multithreaded File Service](https://github.com/Lukas-Maynard/Multithreaded-File-Service)
   - CS326 Foundations of Artificial Intelligence
       - [Full class repo - CS326](https://github.com/Lukas-Maynard/CS326-Foundations-of-Artificial-intelligence)
-          - Project of note: A chess bot using a minimax algorithm. Outlined in the [README](https://github.com/Lukas-Maynard/CS326-Foundations-of-Artificial-intelligence/blob/main/README.md)  
+          - Project of note: A chess bot using a minimax algorithm with alpha beta pruning. Outlined in the [README](https://github.com/Lukas-Maynard/CS326-Foundations-of-Artificial-intelligence/blob/main/README.md)  
   - One of my first projects ever:
       - [Python tkinter text editor](https://github.com/Lukas-Maynard/Python-Project)
 
