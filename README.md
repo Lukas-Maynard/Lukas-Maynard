@@ -82,7 +82,10 @@ There are too many to list so here are some more recent classes of note.
       - [Multithreaded File Service](https://github.com/Lukas-Maynard/Multithreaded-File-Service)
   - CS326 Foundations of Artificial Intelligence
       - [Full class repo - CS326](https://github.com/Lukas-Maynard/CS326-Foundations-of-Artificial-intelligence)
-          - Project of note: A chess bot using a minimax algorithm with alpha beta pruning. Outlined in the [README](https://github.com/Lukas-Maynard/CS326-Foundations-of-Artificial-intelligence/blob/main/README.md)  
+          - Project of note: A chess bot using a minimax algorithm with alpha beta pruning. Outlined in the [README](https://github.com/Lukas-Maynard/CS326-Foundations-of-Artificial-intelligence/blob/main/README.md)
+  - CS416 Computer Networks and Distributed Systems
+      - [Virtual internet. Hosts, Switches, and Routers!](https://github.com/ElaineUlsh/CS416_Project1)
+          - Complete with router table sharing, switch subnet checks and more all in Java.
 
 <!--
 - Discord BOT: A Python discord bot hosted on Google App Engine.
