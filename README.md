@@ -68,6 +68,8 @@ ___
 ___
 ## ⚡ Class projects and class repo's
 There are too many to list so here are some more recent classes of note.
+  - One of my first projects ever:
+      - [Python tkinter text editor](https://github.com/Lukas-Maynard/Python-Project)
   - CS121 Computer Science 2: Data Structures and Objects
       - [Full class repo - CS121](https://github.com/Lukas-Maynard/CS121-S23-Maynard)
   - CS222 Advanced Programming
@@ -81,8 +83,6 @@ There are too many to list so here are some more recent classes of note.
   - CS326 Foundations of Artificial Intelligence
       - [Full class repo - CS326](https://github.com/Lukas-Maynard/CS326-Foundations-of-Artificial-intelligence)
           - Project of note: A chess bot using a minimax algorithm with alpha beta pruning. Outlined in the [README](https://github.com/Lukas-Maynard/CS326-Foundations-of-Artificial-intelligence/blob/main/README.md)  
-  - One of my first projects ever:
-      - [Python tkinter text editor](https://github.com/Lukas-Maynard/Python-Project)
 
 <!--
 - Discord BOT: A Python discord bot hosted on Google App Engine.
